@@ -4,6 +4,12 @@ Note: Only use **NEW:** for entirely new prompt files, NOT for new additions/sec
 
 ### Claude Code System Prompts Changelog
 
+# [2.1.104](https://github.com/Piebald-AI/claude-code-system-prompts/commit/7015f84)
+
+_+8 tokens_
+
+- System Prompt: Communication style — Renamed section heading from "Communication style" to "Text output (does not apply to tool calls)" to clarify that the guidelines apply only to text output, not tool calls.
+
 # [2.1.101](https://github.com/Piebald-AI/claude-code-system-prompts/commit/eb92596)
 
 _+4,676 tokens_
